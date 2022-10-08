@@ -1,0 +1,22 @@
+.home-page{
+  padding: 50px;
+    
+
+
+
+}
+Button{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    margin-left: 26px;
+}
+.buttons{
+    width: 250px;
+    margin: 50px auto;
+    text-align: center;
+}
+.button2{
+    padding-left: 27px;
+    padding-right: 27px;
+}

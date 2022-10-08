@@ -1,0 +1,5 @@
+export const CHANGE_INPUT='change_inputValue'
+export const ADD_ITEM='add_item'
+export const DELETE_ITEM='delete_item'
+export const INIT_RESLIST='init_data'
+export const SAGA_ACTION='saga_action'
